@@ -95,7 +95,7 @@
                                 </div>
                                 <!-- Footer Widgte End -->
                             </div>
-                            <div class="col-lg-3 col-sm-6">
+                            <div class="col-lg-3 col-sm-6 pb-2">
                                 <!-- Footer Widgte Start -->
                                 <div class="footer-widget" data-aos="fade-up" data-aos-delay="600">
                                     <h4 class="widget-title">Opening Hour</h4>
@@ -137,15 +137,11 @@
 
                         <div class="payment-method">
                             <ul class="payment-icon">
-                                <li><img src="assets/images/payment-icon/icon-1.webp" height="15" alt="Icon"></li>
-                                <li><img src="assets/images/payment-icon/icon-2.webp" height="15" alt="Icon"></li>
                                 <li><img src="assets/images/payment-icon/icon-3.webp" height="15" alt="Icon"></li>
-                                <li><img src="assets/images/payment-icon/icon-4.webp" height="15" alt="Icon"></li>
                             </ul>
                         </div>
-
                         <div class="copyright-text">
-                            <p>&copy; 2021 <span> Peerly Spa </span> Made with <i class="fa fa-heart"></i> by <a href="#">Codecarnival</a></p>
+                            <p>&copy; 2021 <span> </span> Made with <i class="fa fa-heart"></i> by <a href="#">Zakti Eco Farm</a></p>
                         </div>
 
                     </div>
