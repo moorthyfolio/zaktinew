@@ -8553,3 +8553,9 @@ select {
   color: #ffffff;
   background-color: #faa292;
 }
+
+.footerlogo{
+  transform: scale(1.5);
+  height: auto;
+  width: 250px;
+}

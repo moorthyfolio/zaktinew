@@ -4,12 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Peerly spa & Beauty bootstrap 5 Template</title>
+    <title> Zakti Eco Farm</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 
     <!-- CSS
 	============================================ -->
@@ -47,7 +47,7 @@
 
                     <!-- Header Logo Start -->
                     <div class="header-logo">
-                        <a href="index.php"><img src="assets/images/logo.webp" width="172" height="45" alt="Logo"></a>
+                        <a href="index.php"><img src="assets/images/logo.svg" width="172" height="45" alt="Logo"></a>
                     </div>
                     <!-- Header Logo End -->
 
@@ -55,65 +55,11 @@
                     <div class="header-navbar d-none d-lg-block">
                         <ul class="navbar-menu">
                             <li><a href="index.php">Home</a></li>
-                            <li>
-                                <a href="#">Spa</a>
-                                <ul class="sub-menu">
-                                    <li>
-                                        <a href="#">Spa Service</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="spa-service.html">Spa Service</a></li>
-                                            <li><a href="hot-stone-spa.html">Hot Stone Spa</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Our Therapy</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="our-therapy.html">Our Therapy</a></li>
-                                            <li><a href="therapy-details.html">Therapy Details</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="packages.html">Packages</a></li>
-                            <li>
-                                <a href="#">Shop</a>
-                                <ul class="sub-menu">
-                                    <li><a href="shop.html">Shop</a></li>
-                                    <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="produtc-details-left-sidebar.html">Product Details Left Sidebar</a></li>
-                                    <li><a href="produtc-details-right-sidebar.html">Product Details Right Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#">Pages</a>
-                                <ul class="sub-menu">
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="cart.html">Cart</a></li>
-                                    <li><a href="compare.html">Compare</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="empty-cart.html">Empty Cart</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="my-account.html">My Account</a></li>
-                                    <li><a href="login.html">Login</a></li>
-                                    <li><a href="register.html">Register</a></li>
-                                    <li><a href="packages.html">Packages</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
-                                    <li><a href="faq.html">FAQ</a></li>
-                                    <li><a href="404-error.html">404 </a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#">Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details-left-sidebar.html">Blog Details Left Sidebar</a></li>
-                                    <li><a href="blog-details-right-sidebar.html">Blog Details Right Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="gallery.php">Gallery</a></li>
+                            <li><a href="aboutauroville.php">Auroville</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
                     <!-- Header Navbar End -->
@@ -150,7 +96,7 @@
             <div class="offcanvas-header">
                 <!-- Logo Start -->
                 <div class="logo">
-                    <a href="index.php"><img src="assets/images/logo.webp" width="172" height="45" alt="Logo"></a>
+                    <a href="index.php"><img src="assets/images/logo.png" width="172" height="45" alt="Logo"></a>
                 </div>
                 <!-- Logo End -->
                 <button type="button" class="close" data-bs-dismiss="offcanvas">
@@ -162,66 +108,12 @@
             <div class="offcanvas-body">
                 <div class="mobile-menu offcanvas-menu">
                     <ul class="navbar-menu">
-                        <li><a href="index.php">Home</a></li>
-                        <li>
-                            <a href="#">Spa</a>
-                            <ul class="sub-menu">
-                                <li>
-                                    <a href="#">Spa Service</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="spa-service.html">Spa Service</a></li>
-                                        <li><a href="hot-stone-spa.html">Hot Stone Spa</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="#">Our Therapy</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="our-therapy.html">Our Therapy</a></li>
-                                        <li><a href="therapy-details.html">Therapy Details</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="packages.html">Packages</a></li>
-                        <li>
-                            <a href="#">Shop</a>
-                            <ul class="sub-menu">
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                                <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                <li><a href="produtc-details-left-sidebar.html">Product Details Left Sidebar</a></li>
-                                <li><a href="produtc-details-right-sidebar.html">Product Details Right Sidebar</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#">Pages</a>
-                            <ul class="sub-menu">
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="cart.html">Cart</a></li>
-                                <li><a href="compare.html">Compare</a></li>
-                                <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="empty-cart.html">Empty Cart</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
-                                <li><a href="my-account.html">My Account</a></li>
-                                <li><a href="login.html">Login</a></li>
-                                <li><a href="register.html">Register</a></li>
-                                <li><a href="packages.html">Packages</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
-                                <li><a href="404-error.html">404 </a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#">Blog</a>
-                            <ul class="sub-menu">
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                <li><a href="blog-details-left-sidebar.html">Blog Details Left Sidebar</a></li>
-                                <li><a href="blog-details-right-sidebar.html">Blog Details Right Sidebar</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="contact.html">Contact</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="gallery.php">Gallery</a></li>
+                            <li><a href="aboutauroville.php">Auroville</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>

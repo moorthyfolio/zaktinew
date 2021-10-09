@@ -11,8 +11,8 @@
 
                 <div class="container">
                     <!-- Newsletter Wrapper Start -->
-                    <div class="newsletter-wrapper text-center" data-aos="fade-up" data-aos-delay="200">
-                        <a class="logo" href="index.html"><img src="assets/images/logo.webp" width="172" height="45" alt="Logo"></a>
+                    <div class="newsletter-wrapper text-center " data-aos="fade-up" data-aos-delay="200">
+                        <a class="" href="index.php"><img class="footerlogo" src="assets/images/logo.svg" width="270" height="" alt="Logo"></a>
                         <h4 class="title">Want to get latest update and offers!</h4>
                         <p>Subscribe our Newsletter right now</p>
                         <div class="newsletter-form">
@@ -30,24 +30,18 @@
                             <div class="col-lg-3 col-sm-6">
                                 <!-- Footer Widgte Start -->
                                 <div class="footer-widget" data-aos="fade-up" data-aos-delay="150">
-                                    <h4 class="widget-title">Contact Info</h4>
+                                    <h4 class="widget-title">Reach Us</h4>
 
                                     <!-- Widgte Info Start -->
                                     <div class="footer-widget-info">
-                                        <div class="single-widget-info">
-                                            <h6 class="title">Address</h6>
-                                            <p>258C, South City, Main town <br> Brolex Tower, New York</p>
-                                        </div>
-                                        <div class="single-widget-info">
-                                            <h6 class="title">Phone</h6>
-                                            <p><a href="tel:+02154785654">+02154 785 654</a></p>
-                                            <p><a href="tel:+98745852147">+98745 852 147</a></p>
-                                        </div>
-                                        <div class="single-widget-info">
-                                            <h6 class="title">Web</h6>
-                                            <p><a href="mailto:info@example.com">info@example.com</a></p>
-                                            <p><a href="mailto:www.example.com">www.example.com</a></p>
-                                        </div>
+                                            <div class="single-widget-info">
+                                                <h6 class="title">Address</h6>
+                                                <p>Zakthi Foundation,</br>
+                                                Vanur Taluk Villupuram District,
+                                                        Bommayarpalayam, Auroville - 605101.</br>
+                                                        </p>
+                                            </div>
+                                     
                                     </div>
                                     <!-- Widgte Info End -->
                                 </div>
@@ -61,13 +55,11 @@
                                     <!-- Widgte Link Start -->
                                     <div class="footer-widget-link">
                                         <ul>
-                                            <li><a href="about.html">About us</a></li>
-                                            <li><a href="spa-service.html">Spa Service</a></li>
-                                            <li><a href="#">Treatment</a></li>
-                                            <li><a href="shop.html">Product</a></li>
-                                            <li><a href="#">Our Experts</a></li>
-                                            <li><a href="#">Support</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
+                                        <li><a href="gallery.php">Gallery</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
+                                        <li><a href="contact.php">Terms & Conditons</a></li>
                                         </ul>
                                     </div>
                                     <!-- Widgte Link End -->
@@ -77,20 +69,17 @@
                             <div class="col-lg-3 col-sm-6">
                                 <!-- Footer Widgte Start -->
                                 <div class="footer-widget" data-aos="fade-up" data-aos-delay="450">
-                                    <h4 class="widget-title">Information</h4>
+                                    <h4 class="widget-title">Get Support</h4>
 
                                     <!-- Widgte Link Start -->
-                                    <div class="footer-widget-link">
-                                        <ul>
-                                            <li><a href="#">Terms & Conditions</a></li>
-                                            <li><a href="#">Book Online</a></li>
-                                            <li><a href="#">Spa Gift Card</a></li>
-                                            <li><a href="#">Offers & Events</a></li>
-                                            <li><a href="#">Purchase a Gift Card</a></li>
-                                            <li><a href="pricing.html">Pricing Package</a></li>
-                                            <li><a href="#">Payment</a></li>
-                                        </ul>
-                                    </div>
+                                    <div class="single-widget-info">
+                                            <h6 class="title">Phone</h6>
+                                            <p><a href="tel:+02154785654">+91 9043223369</a></p>
+                                        </div>
+                                        <div class="single-widget-info">
+                                            <h6 class="title">Web</h6>
+                                            <p><a href="mailto:info@example.com">admin@zaktiherbal.com</a></p>
+                                        </div>
                                     <!-- Widgte Link End -->
                                 </div>
                                 <!-- Footer Widgte End -->
@@ -103,20 +92,16 @@
                                     <!-- Widgte Info Start -->
                                     <div class="footer-widget-info">
                                         <div class="single-widget-info">
-                                            <h6 class="title">Monday to Friday</h6>
-                                            <p>9.00 am - 10.30 Pm</p>
+                                            <h6 class="title">24x7 Service</h6>
                                         </div>
-                                        <div class="single-widget-info">
-                                            <h6 class="title">Saturday to Sunday</h6>
-                                            <p>11.00 am - 9.30 Pm</p>
-                                        </div>
+                                   
                                     </div>
                                     <!-- Widgte Info End -->
 
                                     <!-- Widgte Book End -->
                                     <div class="footer-widget-book">
                                         <h5 class="book-title">Book Now!</h5>
-                                        <p><a href="tel:+12345687754">+12345 687 754</a></p>
+                                        <p><a href="tel:+12345687754">+91 9043223369</a></p>
                                     </div>
                                     <!-- Widgte Book End -->
                                 </div>

@@ -1,4 +1,7 @@
-<?php include "header.php"; ?>
+        <!-- Header Starts -->
+        <?php include "header.php"; ?>
+        <!---headder ends-->
+
 
         <!-- Slider Start -->
         <div class="section slider-area slider-active">
@@ -6,10 +9,10 @@
                 <div class="swiper-wrapper">
 
                     <!-- Single Slider Start -->
-                    <div class="swiper-slide animation-style-01 single-slider d-flex align-items-center" style="background-image: url(assets/images/slider/slider1.jpg);">
+                    <div class="swiper-slide animation-style-01 single-slider d-flex align-items-center" style="background-image: url(assets/images/slider/slider1.jpg);  background: rgba(0, 0, 0, 0.25);">
                         <div class="container">
                             <div class="slider-content">
-                                <h1 class="title">Relaxation <br> Bath with the <br> Aroma Therapy</h1>
+                                <h1 class="title">Relaxation <br> Nature with the <br> Aroma </h1>
                                 <ul class="slider-meta">
                                     <li><a href="#" class="btn btn-primary btn-hover-white">Book Now</a></li>
                                     <li><a href="https://www.youtube-nocookie.com/embed/Ga6RYejo6Hk" class="video-play glightbox"><span class="icon"><i class="fa fa-play"></i></span> Watch Video</a></li>
@@ -25,10 +28,10 @@
                     <!-- Single Slider End -->
 
                     <!-- Single Slider Start -->
-                    <div class="swiper-slide animation-style-01 single-slider d-flex align-items-center" style="background-image: url(assets/images/slider/slider-2.webp);">
+                    <div class="swiper-slide animation-style-01 single-slider d-flex align-items-center" style="background-image: url(assets/images/slider/slider1.jpg);">
                         <div class="container">
                             <div class="slider-content content-white">
-                                <h1 class="title">Relaxation <br> Bath with the <br> Aroma Therapy</h1>
+                                <h1 class="title">Relaxation <br> Bath with the <br> Aroma </h1>
                                 <ul class="slider-meta">
                                     <li><a href="#" class="btn btn-white btn-hover-primary">Book Now</a></li>
                                     <li><a href="https://www.youtube-nocookie.com/embed/Ga6RYejo6Hk" class="video-play glightbox"><span class="icon"><i class="fa fa-play"></i></span> Watch Video</a></li>
@@ -47,7 +50,7 @@
             </div>
         </div>
         <!-- Slider End -->
-
+<?php /*
         <!-- Feature Start -->
         <div class="section section-padding">
             <div class="container">
@@ -87,8 +90,8 @@
                 <!-- Features Wrapper End -->
             </div>
         </div>
-        <!-- Feature End -->
-
+        Feature End
+*/ ?>
         <!-- About Start -->
         <div class="section section-padding-02 about-section">
 
@@ -101,7 +104,7 @@
                         <div class="col-lg-6 col-md-8">
                             <!-- About Image Start -->
                             <div class="about-image" data-aos="fade-up" data-aos-delay="200">
-                                <img src="assets/images/about.webp" width="540" height="565" alt="About">
+                                <img src="assets/images/about.jpg" width="540" height="565" alt="About">
                             </div>
                             <!-- About Image End -->
                         </div>
@@ -110,13 +113,13 @@
                             <div class="about-content" data-aos="fade-up" data-aos-delay="200">
                                 <!-- Section Title Start -->
                                 <div class="section-title">
-                                    <h6 class="sub-title">Wellcom to Peerly</h6>
-                                    <h2 class="title">Incredible & <br> Relaxiable Spa <img class="shape" src="assets/images/shape/shape-15.webp" alt="Shape"></h2>
+                                    <h6 class="sub-title">Welcome to </h6>
+                                    <h2 class="title">Zakti<br> Eco Farm <img class="shape" src="assets/images/shape/shape-15.webp" alt="Shape"></h2>
                                 </div>
                                 <!-- Section Title End -->
-                                <p class="text">We have more than 20 years of Exprience with 100% client Satisfaction</p>
-                                <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and easy to distinguish. In a free hour,power can help you for a relaxation and fresh mind with great enjoy take an example, which of us ever undertakes laborious physical satisfaction</p>
-                                <a href="about.html" class="btn btn-primary btn-hover-dark">Learn more</a>
+                                <p class="text">The beautiful eco friendly farm is situated in the center of auroville</p>
+                                <p>A unique and offbeat destination to unwind and explore with the enchanting smell of earth surrounded by forest and plantation, the whispers of the chirping of birds add to the charm of this farm experience.</p>
+                                <a href="about.html" class="btn btn-primary btn-hover-dark">Know more</a>
                             </div>
                             <!-- About Image End -->
                         </div>
@@ -143,8 +146,8 @@
                     <!-- Section Title Start -->
                     <div class="section-title text-center">
                         <h6 class="sub-title">Service</h6>
-                        <h2 class="title">Our Spa Service</h2>
-                        <p>Peerly is the best Spa therapy is the best way of Spa cases are some perfectly simple and easy to distinguish free hour</p>
+                        <h2 class="title">Our Service</h2>
+                        <p>Zakti eco farm is the best place to relax, Each explorer are special so We offer you the chance to make the best of every moment</p>
                     </div>
                     <!-- Section Title End -->
 
@@ -156,8 +159,7 @@
                                     <div class="single-services text-center">
                                         <div class="services-image">
                                             <a href="therapy-details.html"><img src="assets/images/services/services-1.webp" width="233" height="233" alt="services"></a>
-                                            <span class="price"> $75</span>
-                                        </div>
+                                         </div>
                                         <div class="services-content">
                                             <h4 class="title"><a href="therapy-details.html">Hot Stone</a></h4>
                                             <p>Hot Stone Spa is the best your health and refresh</p>
@@ -170,7 +172,7 @@
                                     <div class="single-services text-center">
                                         <div class="services-image">
                                             <a href="therapy-details.html"><img src="assets/images/services/services-2.webp" width="233" height="233" alt="services"></a>
-                                            <span class="price"> $64</span>
+                                           
                                         </div>
                                         <div class="services-content">
                                             <h4 class="title"><a href="therapy-details.html">Face Scrub</a></h4>
@@ -184,7 +186,7 @@
                                     <div class="single-services text-center">
                                         <div class="services-image">
                                             <a href="therapy-details.html"><img src="assets/images/services/services-3.webp" width="233" height="233" alt="services"></a>
-                                            <span class="price"> $75</span>
+                                       
                                         </div>
                                         <div class="services-content">
                                             <h4 class="title"><a href="therapy-details.html">Oil Massage</a></h4>
@@ -201,7 +203,7 @@
                 <!-- Services Main Content End -->
 
                 <!-- Services Background Start -->
-                <div class="services-background" style="background-image: url(assets/images/services/service-bg.webp);"></div>
+                <div class="services-background" style="background-image: url(assets/images/services/service-bg.jpg);"></div>
                 <!-- Services Background End -->
 
             </div>
@@ -249,7 +251,7 @@
                             <!-- Choose Image Start -->
                             <div class="choose-image" data-aos="fade-up" data-aos-delay="200">
                                 <div class="image">
-                                    <img src="assets/images/choose.webp" width="488" height="499" alt="Choose">
+                                    <img src="assets/images/choose.jpg" width="488" height="499" alt="Choose">
                                 </div>
                             </div>
                             <!-- Choose Image End -->
@@ -281,7 +283,7 @@
             </div>
         </div>
         <!-- Why Choose US End -->
-
+<?php /*
         <!-- Spa Pricing Start -->
         <div class="section section-padding-02">
             <div class="container">
@@ -493,11 +495,11 @@
             </div>
         </div>
         <!-- Spa Pricing End -->
-
+*/ ?>
         <!-- Call to Action Start -->
         <div class="section call-to-action-serction" style="background-image: url(assets/images/patan-bg-2.webp);">
             <!-- Call to Action bg Start -->
-            <div class="call-to-action-bg" style="background-image: url(assets/images/cta-bg.webp);"></div>
+            <div class="call-to-action-bg" style="background-image: url(assets/images/cta-bg.jpg);"></div>
             <!-- Call to Action bg End -->
 
             <!-- Call to Action Content Start -->
@@ -531,7 +533,7 @@
         <!-- Call to Action End -->
 
         <!-- Testimonial Start -->
-        <div class="section section-padding testimonial-section">
+        <div class="section section-padding testimonial-section pb-5">
 
             <img class="shape-1 movebounce-03" src="assets/images/shape/shape-14.webp" width="212" height="191" alt="Shape">
 
@@ -644,111 +646,15 @@
                     <div class="swiper-button-prev"></div>
                 </div>
                 <!-- Testimonial Wrapper End -->
-
             </div>
         </div>
         <!-- Testimonial End -->
 
         <!-- Blog Start -->
-        <div class="section section-padding">
-            <div class="container">
-                <!-- Blog Wrapper Start -->
-                <div class="blog-wrapper">
-                    <div class="row">
-                        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-                            <!-- Blog Sidebar Title Start -->
-                            <div class="blog-sidebar-title">
-                                <!-- Section Title Start -->
-                                <div class="section-title">
-                                    <h6 class="sub-title">Blog</h6>
-                                    <h2 class="title">Latest Post <br> from Blog <img class="shape" src="assets/images/shape/shape-15.webp" alt="Shape"></h2>
-                                </div>
-                                <!-- Section Title End -->
-                                <p class="text">Deep discuss about Spa and Therapy Treamment</p>
-                                <a href="blog-left-sidebar.html" class="btn btn-primary btn-hover-dark">View more</a>
-                            </div>
-                            <!-- Blog Sidebar Title End -->
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog">
-                                <div class="blgo-image">
-                                    <a href="blog-details-right-sidebar.html"><img src="assets/images/blog/blog-1.webp" width="314" height="238" alt="Blog"></a>
-                                </div>
-                                <div class="blgo-content">
-                                    <ul class="meta">
-                                        <li><a href="#"><i class="fa fa-calendar"></i> 20 Aug, 2021</a></li>
-                                        <li><a href="#"><i class="fa fa-user-o"></i> Thomas</a></li>
-                                    </ul>
-                                    <h3 class="title"><a href="blog-details-right-sidebar.html">Benefit of Hot Ston Spa for your health & life.</a></h3>
-                                </div>
-                                <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
-                            </div>
-                            <!-- Single Blog End -->
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog">
-                                <div class="blgo-image">
-                                    <a href="blog-details-right-sidebar.html"><img src="assets/images/blog/blog-2.webp" width="314" height="238" alt="Blog"></a>
-                                </div>
-                                <div class="blgo-content">
-                                    <ul class="meta">
-                                        <li><a href="#"><i class="fa fa-calendar"></i> 20 Aug, 2021</a></li>
-                                        <li><a href="#"><i class="fa fa-user-o"></i> Thomas</a></li>
-                                    </ul>
-                                    <h3 class="title"><a href="blog-details-right-sidebar.html">Facial Scrub is natural treatment for face.</a></h3>
-                                </div>
-                                <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
-                            </div>
-                            <!-- Single Blog End -->
-                        </div>
-                    </div>
-                </div>
-                <!-- Blog Wrapper End -->
-            </div>
-        </div>
+        
         <!-- Blog End -->
 
-        <!-- Brand Start -->
-        <div class="section section-padding-02">
-            <div class="container">
-                <!-- Brand Start -->
-                <div class="brand-wrapper brand-active">
-                    <div class="swiper-container">
-                        <div class="swiper-wrapper">
-                            <!-- Single Brand Start -->
-                            <div class="swiper-slide single-brand">
-                                <img src="assets/images/brand/brand-1.webp" height="107" alt="Brand">
-                            </div>
-                            <!-- Single Brand End -->
-                            <!-- Single Brand Start -->
-                            <div class="swiper-slide single-brand">
-                                <img src="assets/images/brand/brand-2.webp" height="107" alt="Brand">
-                            </div>
-                            <!-- Single Brand End -->
-                            <!-- Single Brand Start -->
-                            <div class="swiper-slide single-brand">
-                                <img src="assets/images/brand/brand-3.webp" height="107" alt="Brand">
-                            </div>
-                            <!-- Single Brand End -->
-                            <!-- Single Brand Start -->
-                            <div class="swiper-slide single-brand">
-                                <img src="assets/images/brand/brand-4.webp" height="107" alt="Brand">
-                            </div>
-                            <!-- Single Brand End -->
-                            <!-- Single Brand Start -->
-                            <div class="swiper-slide single-brand">
-                                <img src="assets/images/brand/brand-5.webp" height="107" alt="Brand">
-                            </div>
-                            <!-- Single Brand End -->
-                        </div>
-                    </div>
-                </div>
-                <!-- Brand End -->
-            </div>
-        </div>
-        <!-- Brand End -->
+     
 
 <!-- Footer starts  -->
         <?php include "footer.php"; ?>  
