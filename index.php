@@ -129,7 +129,8 @@
             </div>
         </div>
         <!-- About End -->
-
+<!-- 
+    <?php /*
         <!-- Services Start -->
         <div class="section services-section" style="background-image: url(assets/images/patan-bg.webp);">
 
@@ -210,10 +211,11 @@
             <!-- Services Wrapper End -->
 
         </div>
-        <!-- Services End -->
+        Services End -->
+        */ ?>
 
         <!-- Why Choose US Start -->
-        <div class="section section-padding">
+        <div class="section ">
             <div class="container">
 
                 <!-- Section Title Start -->
@@ -635,10 +637,8 @@
                                         </div>
                                     </div>
                                     <!-- Single Testimonial End -->
-
                                 </div>
                             </div>
-
                         </div>
                     </div>
 
@@ -649,13 +649,8 @@
             </div>
         </div>
         <!-- Testimonial End -->
-
-        <!-- Blog Start -->
-        
+        <!-- Blog Start -->        
         <!-- Blog End -->
-
-     
-
 <!-- Footer starts  -->
         <?php include "footer.php"; ?>  
 <!-- Footer End -->

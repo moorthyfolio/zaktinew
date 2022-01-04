@@ -190,6 +190,7 @@ var swiper = new Swiper('.slider-active .swiper-container', {
     speed: 600,
     effect: "fade",
     loop: true,
+    navigation:true,
     pagination: {
         el: '.slider-active .swiper-pagination',
         clickable: true,
@@ -309,6 +310,10 @@ var swiper = new Swiper('.brand-active .swiper-container', {
     speed: 600,
     spaceBetween: 30,
     loop: true,
+    navigation: {
+        prevEl: true,
+        nextEl: true,
+      },
     breakpoints: {
         0: {
             slidesPerView: 2,
@@ -327,9 +332,9 @@ var swiper = new Swiper('.brand-active .swiper-container', {
             spaceBetween: 80,
         }
     },
-    // autoplay: {
-    //     delay: 8000,
-    // },
+    autoplay: {
+        delay: 5000,
+    },
 });
 
 

@@ -101,7 +101,7 @@
                                     <!-- Widgte Book End -->
                                     <div class="footer-widget-book">
                                         <h5 class="book-title">Book Now!</h5>
-                                        <p><a href="tel:+12345687754">+91 9043223369</a></p>
+                                        <p><a href="tel:+12345687754">+91 8428 141454</a></p>
                                     </div>
                                     <!-- Widgte Book End -->
                                 </div>

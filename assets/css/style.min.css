@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
 *,
+:root {
+	--green: #5cbc76;
+	--darkgreen: #0e3002;
+  }
+
 *::after,
 *::before {
 	-webkit-box-sizing: border-box;
@@ -221,7 +226,7 @@ textarea:-ms-input-placeholder {
 
 .section-padding-02 {
 	padding-top: 130px;
-	padding-bottom: 130px
+	padding-bottom: 60px
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1946,7 +1951,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 
 .header-area {
 	padding: 0px 0;
-	background-color: rgb(255 255 255 / 0.8);
+	background-color: rgb(255 255 255 / 1);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -1977,6 +1982,11 @@ only screen and (max-width: 767px) {
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center
+}
+
+.main-wrapper .header-logo img{
+	width: 220px; 
+	/* height: 45px; */
 }
 
 @media only screen and (max-width: 575px) {
@@ -8328,7 +8338,7 @@ only screen and (max-width: 767px) {
 	margin: 0 auto;
 	margin-top: 25px;
 	z-index: 1;
-	background-color: #4aaf63;
+	background-color: var(--darkgreen);
 	border-radius: 50px
 }
 

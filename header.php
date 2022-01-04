@@ -47,7 +47,7 @@
 
                     <!-- Header Logo Start -->
                     <div class="header-logo">
-                        <a href="index.php"><img src="assets/images/logo.svg" width="172" height="45" alt="Logo"></a>
+                        <a href="index.php"><img src="assets/images/logo.svg"  alt="Logo"></a>
                     </div>
                     <!-- Header Logo End -->
 

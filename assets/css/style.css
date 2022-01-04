@@ -71,6 +71,12 @@
   padding: 0;
 }
 
+:root {
+	--green: #5cbc76;
+	--darkgreen: #0e3002;
+  }
+
+
 body {
   font-size: 16px;
   line-height: 1.625;
@@ -2046,6 +2052,10 @@ select {
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
+}
+
+.header-navbar .navbar-menu li:hover{
+ background-color: var(--green); 
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {

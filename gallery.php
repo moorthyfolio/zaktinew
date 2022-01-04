@@ -49,10 +49,10 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Face Towel Mask</a></h4>
-                                    <div class="price-rating">
+                                    <!-- <div class="price-rating">
                                         <span class="price">Price: $35</span>
                                         <span class="rating">Rating: 4.8</span>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -66,10 +66,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Spa Towel Set</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $65</span>
-                                        <span class="rating">Rating: 4.7</span>
-                                    </div>
+                               
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -83,10 +80,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Coconut Milk Cream</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $25</span>
-                                        <span class="rating">Rating: 5</span>
-                                    </div>
+                                 
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -100,10 +94,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Charcoal Face Wash</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $45</span>
-                                        <span class="rating">Rating: 5</span>
-                                    </div>
+                                   
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -117,10 +108,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Foot Spa/Bath Soaker</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $155</span>
-                                        <span class="rating">Rating: 4.9</span>
-                                    </div>
+                                  
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -134,10 +122,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Spa Bath Pillow</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $35</span>
-                                        <span class="rating">Rating: 4.8</span>
-                                    </div>
+                                   
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -151,10 +136,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html"> Portable Sauna Kit</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $135</span>
-                                        <span class="rating">Rating: 4.8</span>
-                                    </div>
+                                 
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -168,10 +150,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Spa Herbal Ball</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $75</span>
-                                        <span class="rating">Rating: 4.7</span>
-                                    </div>
+                              
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -185,10 +164,7 @@
                                 </div>
                                 <div class="product-content">
                                     <h4 class="title"><a href="produtc-details-right-sidebar.html">Face Towel Mask</a></h4>
-                                    <div class="price-rating">
-                                        <span class="price">Price: $285</span>
-                                        <span class="rating">Rating: 4.8</span>
-                                    </div>
+                               -->
                                 </div>
                                 <img src="assets/images/shape/shape-4.webp" class="shape" alt="Shape">
                             </div>
@@ -257,5 +233,5 @@
         <!-- Brand End -->
 
 <!-- footer Starts -->
-<?php include "header.php"; ?>
+<?php include "footer.php"; ?>
 <!---footer ends-->
